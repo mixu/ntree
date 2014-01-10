@@ -1,0 +1,18 @@
+{
+  "name": "ntree",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mixu/ntree.git"
+  },
+  "author": "Mikito Takada <mikito.takada@gmail.com> (http://mixu.net/)",
+  "license": "BSD",
+  "dependencies": {
+    "archy": "0.0.2",
+    "optimist": "~0.6.0",
+    "detective": "~2.2.0",
+    "resolve": "~0.6.1"
+  }
+}
